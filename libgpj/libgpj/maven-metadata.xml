@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>libgbj</groupId>
-  <artifactId>libgbj</artifactId>
+  <groupId>libgpj</groupId>
+  <artifactId>libgpj</artifactId>
   <versioning>
     <release>0.0.1</release>
     <versions>
       <version>0.0.1</version>
     </versions>
-    <lastUpdated>20160404091802</lastUpdated>
+    <lastUpdated>20160404092908</lastUpdated>
   </versioning>
 </metadata>
